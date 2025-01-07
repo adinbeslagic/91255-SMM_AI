@@ -1,6 +1,5 @@
 # 91255 - Statistical and Mathematical Methods for Artificial Intelligence
-Exchange semester Bologna - Statistical and Mathematical Methods for Artificial Intelligence 
-Four Assignments with focus on different aspects Machine Learning 
+Exchange semester Bologna 2024-2025 - Four Assignments with focus on various aspects of Machine learning
 #### Assignment 1 - Machine \epsilon & Matrix condition number 
 #### Assignment 2 - SVD computation of Image (dyad, k-rank appr. and compression factor) & Classification of digit images using SVD and PCA 
 #### Assignment 3 - Variations of Gradient descent (Vanilla, w/ backtracking and Stochastic) - training on a smaller data set and testing on a seperate larger set 
